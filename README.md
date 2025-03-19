@@ -1,1 +1,1 @@
-I couldn`t reload files thats why i added outside folder
+I couldn't reload the files, so I added them outside the folder.
